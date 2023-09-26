@@ -1,3 +1,6 @@
+//Program by Eddy Guerra
+//This Program Deletes Elements from Linked Lists
+//and tests to see which operation is faster
 #include <iostream>
 #include <vector>
 #include <time.h>
